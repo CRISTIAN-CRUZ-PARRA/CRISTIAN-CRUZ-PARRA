@@ -17,6 +17,6 @@ I'm a passionate software developer specializing in both frontend and backend de
 
 
 ## How to Reach Me
-- Connect with me on [**LinkedIn**](https://www.linkedin.com/in/cristian-cruz-parra/)!
+- Connect with me on [**LinkedIn**](https://www.linkedin.com/in/cristian-cruz-parra-b69041382/)!
 - [Twitter](https://x.com/guspy1_)
 - Correo: cristiancruzparra13@gmail.com
